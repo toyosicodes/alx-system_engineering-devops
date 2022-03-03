@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod --x--xr-- hello
+#!bin/bash
+--x--xr-- hello
